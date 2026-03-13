@@ -3,7 +3,6 @@
 <p align="center">
 My name is <b>Mateus</b> and I am a <b>Web Developer</b>.
 </p>
----
 
 <h2>About Me</h2>
 
