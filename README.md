@@ -9,7 +9,7 @@ Always learning, improving my skills and building new projects.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=* 255F63&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Technician+-+IFG;Software+Engineering+Student;HTML+CSS+JavaScript+Java;Always+learning+new+technologies+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF5F63&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Technician+-+IFG;Software+Engineering+Student;HTML+CSS+JavaScript+Java;Always+learning+new+technologies+🚀" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Always learning, improving my skills and building new projects.
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusBites&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
