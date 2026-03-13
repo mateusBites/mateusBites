@@ -3,15 +3,6 @@
 <p align="center">
 My name is <b>Mateus</b> and I am a <b>Web Developer</b>.
 </p>
-
-<p align="center">
-Always learning, improving my skills and building new projects.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF5F63&size=25&center=true&vCenter=true&width=600&lines=Web+Developer;Computer+Technician+-+IFG;Software+Engineering+Student;HTML+CSS+JavaScript+Java;Always+learning+new+technologies+🚀" />
-</p>
-
 ---
 
 <h2>About Me</h2>
