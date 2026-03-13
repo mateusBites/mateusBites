@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, desenvolvedores! 👋
 
-<!--
-**mateusBites/mateusBites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mateus e sou desenvolvedor web.
+Estou sempre buscando aprender mais, evoluir minhas habilidades e desenvolver novos projetos.
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Técnico em Informática - IFG
+🎓 Estudante de Engenharia de Software - IFG
+💻 Desenvolvedor Web
+🚀 Sempre aprendendo e criando novos projetos
+---
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,azure,cs,dotnet,postgres,nodejs" />
+</p>
+
+---
+ Seja bem-vindo ao meu perfil! Aqui você vai encontrar alguns dos projetos que venho desenvolvendo durante meus estudos e experiências.
